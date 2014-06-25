@@ -11,8 +11,9 @@
 translation/
 bin/
 gen/
-releases/
 screenshots/
+releases/*
+!releases/*.apk
 
 # Local configuration file (sdk path, etc)
 local.properties
