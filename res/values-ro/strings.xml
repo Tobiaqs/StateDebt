@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">DatorieStat</string>
+    <string name="error_downloading_countries">Nu am putut downloada lista de țări!</string>
+    <string name="error_downloading_country">Nu am putut downloada informația țării!</string>
+
+    <string name="population">Populație</string>
+    <string name="gdp">GDP</string>
+    <string name="debtgdp">Datorie/GDP</string>
+    <string name="debtperson">Datorie/Persoană</string>
+    <string name="increase_per_second">Creștere/Secundă</string>
+    <string name="convert_to_dollar">Transformă în &#36;</string>
+    <string name="convert_back">Transformă în %s</string>
+    <string name="clear_cache">Reîncarcă</string>
+    <string name="licenses">Licențe</string>
+    <string name="about">Despre această aplicație</string>
+
+	<string-array name="countries">
+		<item>Australia</item>
+		<item>Austria</item>
+		<item>Belgia</item>
+		<item>Brazilia</item>
+		<item>Bulgaria</item>
+		<item>Canada</item>
+		<item>China</item>
+		<item>Columbia</item>
+		<item>Cipru</item>
+		<item>Republica Cehă</item>
+		<item>Danemarca</item>
+		<item>Estonia</item>
+		<item>Finlanda</item>
+		<item>Franța</item>
+		<item>Germania</item>
+		<item>Grecia</item>
+		<item>Hong Kong</item>
+		<item>Ungaria</item>
+		<item>India</item>
+		<item>Irlanda</item>
+		<item>Izrael</item>
+		<item>Italia</item>
+		<item>Japonia</item>
+		<item>Letonia</item>
+		<item>Lituania</item>
+		<item>Luxemburg</item>
+		<item>Malaezia</item>
+		<item>Malta</item>
+		<item>Mexic</item>
+		<item>Olanda</item>
+		<item>Noua Zeelanda</item>
+		<item>Norvegia</item>
+		<item>Pakistan</item>
+		<item>Polonia</item>
+		<item>Portugalia</item>
+		<item>România</item>
+		<item>Rusia</item>
+		<item>Singapur</item>
+		<item>Slovacia</item>
+		<item>Slovenia</item>
+		<item>Africa de Sud</item>
+		<item>Coreea de Sud</item>
+		<item>Spania</item>
+		<item>Suedia</item>
+		<item>Elveția</item>
+		<item>Tailanda</item>
+		<item>Turcia</item>
+		<item>Marea Britanie</item>
+		<item>Statele Unite</item>
+	</string-array>
+
+	<string name="about_text">
+		Scopul principal al acestei aplicaţii este de a arăta cât de mare este datoria publica a mai multor țari, plus cât de repede crește.
+	</string>
+</resources>

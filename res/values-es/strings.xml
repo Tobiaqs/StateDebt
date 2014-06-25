@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">StateDebt</string>
+    <string name="error_downloading_countries">¡No se pudo descargar la lista de países!</string>
+    <string name="error_downloading_country">¡No se pudo descargar la información del país!</string>
+    
+    <string name="population">Población</string>
+    <string name="gdp">PIB</string>
+    <string name="debtgdp">Deuda/PIB</string>
+    <string name="debtperson">Deuda/Persona</string>
+    <string name="increase_per_second">Incremento/Segundo</string>
+    <string name="convert_to_dollar">Convertir a &#36;</string>
+    <string name="convert_back">Convertir a %s</string>
+    <string name="clear_cache">Actualizar</string>
+    <string name="licenses">Licencias</string>
+    <string name="about">Sobre esta aplicación</string>
+    <string-array name="licenses">
+        <item>ActionBarSherlock</item>
+        <item>GifMovieView</item>
+        <item>Librería para soporte para Android</item>
+        <item>FontFitTextView (modificado)</item>
+    </string-array>
+    
+   	<string-array name="countries">
+		<item>Australia</item>
+		<item>Austria</item>
+		<item>Bélgica</item>
+		<item>Brasil</item>
+		<item>Bulgaria</item>
+		<item>Canadá</item>
+		<item>China</item>
+		<item>Colombia</item>
+		<item>Chipre</item>
+		<item>República Checa</item>
+		<item>Dinamarca</item>
+		<item>Estonia</item>
+		<item>Finlandia</item>
+		<item>Francia</item>
+		<item>Alemania</item>
+		<item>Grecia</item>
+		<item>Hong Kong</item>
+		<item>Hungría</item>
+		<item>India</item>
+		<item>Irlanda</item>
+		<item>Israel</item>
+		<item>Italia</item>
+		<item>Japón</item>
+		<item>Letonia</item>
+		<item>Lituania</item>
+		<item>Luxemburgo</item>
+		<item>Malasia</item>
+		<item>Malta</item>
+		<item>México</item>
+		<item>Países Bajos</item>
+		<item>Nueva Zelanda</item>
+		<item>Noruega</item>
+		<item>Pakistán</item>
+		<item>Polonia</item>
+		<item>Portugal</item>
+		<item>Romania</item>
+		<item>Russia</item>
+		<item>Singapur</item>
+		<item>Eslovaquia</item>
+		<item>Eslovenia</item>
+		<item>Sudáfrica</item>
+		<item>Corea del Sur</item>
+		<item>España</item>
+		<item>Suecia</item>
+		<item>Suiza</item>
+		<item>Tailandia</item>
+		<item>Turquía</item>
+		<item>Reino Unido</item>
+		<item>Estados Unidos</item>
+	</string-array>
+</resources>

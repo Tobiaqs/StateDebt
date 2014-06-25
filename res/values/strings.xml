@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StateDebt</string>
+    <string name="error_downloading_countries">Couldn\'t download list of countries!</string>
+    <string name="error_downloading_country">Couldn\'t download country information!</string>
+    
+    <string name="population">Population</string>
+    <string name="gdp">GDP</string>
+    <string name="debtgdp">Debt/GDP</string>
+    <string name="debtperson">Debt/Person</string>
+    <string name="increase_per_second">Increase/Second</string>
+    <string name="convert_to_dollar">Convert to &#36;</string>
+    <string name="convert_back">Convert to %s</string>
+    <string name="clear_cache">Refresh</string>
+    <string name="licenses">Licenses</string>
+    <string name="about">About this app</string>
+    <string-array name="licenses">
+        <item>ActionBarSherlock</item>
+        <item>GifMovieView</item>
+        <item>Android Support Library</item>
+        <item>FontFitTextView (modified)</item>
+    </string-array>
+    <string-array name="licenses_files">
+        <item>actionbarsherlock</item>
+        <item>gifview</item>
+        <item>support</item>
+        <item>fontfittextview</item>
+    </string-array>
+
+	<string-array name="countries"></string-array>
+	
+	<string name="about_text">
+	    The app\'s main goal is to show how big the public debt is of a lot of countries, plus how fast it\'s growing.
+	</string>
+</resources>

@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">StaatsSchuld</string>
+    <string name="error_downloading_countries">Kan de lijst met landen niet downloaden!</string>
+    <string name="error_downloading_country">Kan informatie van dit land niet downloaden!</string>
+    
+    <string name="population">Populatie</string>
+    <string name="gdp">BBP</string>
+    <string name="debtgdp">Schuld/BBP</string>
+    <string name="debtperson">Schuld/Persoon</string>
+    <string name="increase_per_second">Stijging/Seconde</string>
+    
+    <string name="convert_to_dollar">Reken om naar &#36;</string>
+    <string name="convert_back">Reken om naar %s</string>
+    <string name="clear_cache">Vernieuw</string>
+    <string name="licenses">Licenties</string>
+    <string name="about">Over deze app</string>
+    
+	<string-array name="countries">
+		<item>Australië</item>
+		<item>Oostenrijk</item>
+		<item>België</item>
+		<item>Brazilië</item>
+		<item>Bulgarije</item>
+		<item>Canada</item>
+		<item>China</item>
+		<item>Colombia</item>
+		<item>Cyprus</item>
+		<item>Tsjechië</item>
+		<item>Denemarken</item>
+		<item>Estland</item>
+		<item>Finland</item>
+		<item>Frankrijk</item>
+		<item>Duitsland</item>
+		<item>Griekenland</item>
+		<item>Hong Kong</item>
+		<item>Hongarije</item>
+		<item>India</item>
+		<item>Ierland</item>
+		<item>Israel</item>
+		<item>Italië</item>
+		<item>Japan</item>
+		<item>Letland</item>
+		<item>Litouwen</item>
+		<item>Luxemburg</item>
+		<item>Maleisië</item>
+		<item>Malta</item>
+		<item>Mexico</item>
+		<item>Nederland</item>
+		<item>Nieuw-Zeeland</item>
+		<item>Noorwegen</item>
+		<item>Pakistan</item>
+		<item>Polen</item>
+		<item>Portugal</item>
+		<item>Roemenië</item>
+		<item>Rusland</item>
+		<item>Singapore</item>
+		<item>Slowakije</item>
+		<item>Slovenië</item>
+		<item>Zuid-Afrika</item>
+		<item>Zuid-Korea</item>
+		<item>Spanje</item>
+		<item>Zweden</item>
+		<item>Zwitserland</item>
+		<item>Thailand</item>
+		<item>Turkijë</item>
+		<item>Verenigd Koninkrijk</item>
+		<item>Verenigde Staten</item>
+	</string-array>
+	
+	<string name="about_text">
+		Het doel van deze app is te laten zien hoe groot de staatsschulden van verschillende landen zijn, en een beeld te geven van hoe snel deze groeien.
+	</string>
+</resources>
